@@ -8,7 +8,7 @@
 
 //We need to declare our variables.
 //Please input your 2 values for num1 and num2.
-const num1 = 5;
+const num1 = 50;
 const num2 = 51;
 
 // If statement will evaluate sum of num1 & num2.
